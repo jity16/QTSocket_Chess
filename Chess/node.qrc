@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>node/bjiang.png</file>
+        <file>node/bju.png</file>
+        <file>node/bma.png</file>
+        <file>node/bpao.png</file>
+        <file>node/bsi.png</file>
+        <file>node/bxiang.png</file>
+        <file>node/bzu.png</file>
+        <file>node/hbin.png</file>
+        <file>node/hju.png</file>
+        <file>node/hma.png</file>
+        <file>node/hpao.png</file>
+        <file>node/hshuai.png</file>
+        <file>node/hsi.png</file>
+        <file>node/hxiang.png</file>
+        <file>bgm/operate.wav</file>
+        <file>bgm/checkmate.wav</file>
+        <file>node/1.png</file>
+        <file>bgm/info.wav</file>
+    </qresource>
+</RCC>
